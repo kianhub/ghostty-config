@@ -45,9 +45,10 @@ palette = 15=#c0caf5
 
 # app icon
 macos-icon = custom-style
-macos-icon-frame = beige
+macos-icon-frame = plastic
 macos-icon-ghost-color = grey
-macos-icon-screen-color = #4740B5
+macos-icon-screen-color = #6127F5,#4D0BF4,#3F09C8,#31079C,#240570,#160344,#080118
+#4740B5
 
 # font
 font-size = 12.5
@@ -56,3 +57,4 @@ font-thicken = true
 
 # keyboard
 keybind = ctrl+tab=goto_split:next
+keybind = cmd+k=toggle_command_palette
