@@ -2,7 +2,8 @@
 Quick overview of my config
 
 # Icon
-<img width="235" alt="image" src="https://github.com/user-attachments/assets/f9b8a4ee-6418-4b09-a086-c54cf0c8ee14" />
+<img width="75" height="77" alt="image" src="https://github.com/user-attachments/assets/61f844ff-3cc2-4d0b-bc6b-af29c455669b" />
+
 
 # Theme
 `tokyonight`
