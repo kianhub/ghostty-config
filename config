@@ -58,3 +58,4 @@ font-thicken = true
 # keyboard
 keybind = ctrl+tab=goto_split:next
 keybind = cmd+k=toggle_command_palette
+keybind = cmd+shift+g=toggle_quick_terminal
