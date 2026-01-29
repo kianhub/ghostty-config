@@ -17,7 +17,8 @@ window-padding-balance = true
 
 # theme
 background-opacity = 0.9
-background-blur-radius = 20
+background-blur = macos-glass-regular
+# background-blur-radius = 20
 theme = tokyonight
 background = #111219
 foreground = #D7DDF7
@@ -59,3 +60,7 @@ font-thicken = true
 keybind = ctrl+tab=goto_split:next
 keybind = cmd+k=toggle_command_palette
 keybind = global:cmd+shift+g=toggle_quick_terminal
+keybind = shift+enter=text:\x1b\r
+
+# ghostty
+auto-update-channel = tip
