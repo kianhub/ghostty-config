@@ -14,6 +14,7 @@ quit-after-last-window-closed = true
 window-padding-x = 6
 window-padding-y = 0
 window-padding-balance = true
+macos-titlebar-style = tabs
 
 # theme
 background-opacity = 0.9
@@ -63,4 +64,4 @@ keybind = global:cmd+shift+g=toggle_quick_terminal
 keybind = shift+enter=text:\x1b\r
 
 # ghostty
-auto-update-channel = tip
+# auto-update-channel = tip
