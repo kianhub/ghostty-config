@@ -1,0 +1,40 @@
+# Things 3 inspired theme for Ghostty
+# Bold, clean colors drawn from Cultured Code's Things 3
+
+background = #1D1E28
+foreground = #E8ECF2
+cursor-color = #4A90D9
+selection-background = #3A4A6B
+selection-foreground = #F0F2F7
+
+# black
+palette = 0=#1D1E28
+palette = 8=#525566
+
+# red - deadlines / overdue
+palette = 1=#E25454
+palette = 9=#F06B6B
+
+# green - completed / checkmarks
+palette = 2=#58C35A
+palette = 10=#6FDB71
+
+# yellow - today / stars
+palette = 3=#F5C543
+palette = 11=#FFD76A
+
+# blue - primary action / links
+palette = 4=#4A90D9
+palette = 12=#6AAAF0
+
+# magenta - evening / tags
+palette = 5=#9B72CF
+palette = 13=#B68FE6
+
+# cyan - logbook / notes
+palette = 6=#5FBDCF
+palette = 14=#7DD3E3
+
+# white
+palette = 7=#C4CAD6
+palette = 15=#E8ECF2
